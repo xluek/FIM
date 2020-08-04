@@ -3,7 +3,7 @@
 ############################################
 ##                                        ##
 ## File Integrity Monitoring check script ##
-## Developed by Oscar Arias	(XlueK)       ##
+## Developed by Oscar Arias (XlueK)       ##
 ##                                        ##
 ############################################
 
